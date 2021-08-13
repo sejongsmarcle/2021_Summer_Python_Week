@@ -1,5 +1,5 @@
 # Implementation of [CLIP](https://github.com/openai/CLIP) from OpenAI on a Web
-### This project was carried out as a small project from [SMARCLE](https://www.smarcle.dev/) and was produced with [Yoo Ji-won](https://github.com/Jiyajiwon).
+### Produced by [Kim Chanyoung](https://github.com/kochanha) & [Yoo Ji-won](https://github.com/Jiyajiwon).
 ![image](https://user-images.githubusercontent.com/44921488/128636325-6f14ca58-bfa3-4f35-94dd-8ff6eca6c11b.png)
 
 ## Installation
