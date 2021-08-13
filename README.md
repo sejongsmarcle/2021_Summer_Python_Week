@@ -22,3 +22,7 @@
 - [https://www.youtube.com/results?search_query=파이썬+](https://www.youtube.com/results?search_query=%ED%8C%8C%EC%9D%B4%EC%8D%AC+)
 - [https://wikidocs.net/book/1](https://wikidocs.net/book/1)
 - [https://dojang.io/course/view.php?id=7](https://dojang.io/course/view.php?id=7)
+
+<hr>
+
+### [최종 발표 영상](https://www.youtube.com/watch?v=r2JJwxaaObo)
