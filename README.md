@@ -1,5 +1,6 @@
 # 2021 여름방학 SMARCLE PYTHON WEEK
 
+## [온라인 전시회 바로가기](https://smarcle-python-fair.netlify.app/)
 ### [프로그램 설명 (Notion)](https://confirmed-textbook-87e.notion.site/SMARCLE-PYTHON-WEEK-2ad24d8a53374b1caca0025e50fd285c)
 
 ## 진행방식
